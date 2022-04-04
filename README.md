@@ -1,0 +1,2 @@
+# cursoZabbix
+Curso de Zabbix
