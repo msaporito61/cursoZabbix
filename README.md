@@ -6,3 +6,6 @@ Para visualizar los comandos utilizados, abra el archivo comandos.md con un visu
 [Primer día](comandos.md)
 
 [Segundo día](agentes.md)
+
+[Tercer día](proxy.md)
+

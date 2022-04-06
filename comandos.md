@@ -139,7 +139,7 @@ Importar el esquema inicial y datos
 Enter password:
 ```
 
-Configurar la clave de la bade de datos en el archivo de configuracion: /etc/zabbix/zabbix_server.conf
+Configurar la clave de la bade de datos en el archivo de configuracion: **/etc/zabbix/zabbix_server.conf**
 
 ```
 DBPassword=clave
